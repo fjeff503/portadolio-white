@@ -23,6 +23,7 @@ header {
     margin-bottom: 30px;
     background: /* url('../img/header.jpg') no-repeat center center */
     #3a8adf;
+    background-attachment: scroll;
     /* -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
