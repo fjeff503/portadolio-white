@@ -19,11 +19,10 @@ body {
 /*-----------Header------------*/
 
 header {
-    background: /*url('../img/header.jpg')*/
-    #3a8adf;
-    /* background-repeat: no-repeat;
+    background: url('../img/header.jpg') #3a8adf;
+    background-repeat: no-repeat;
     background-position: center;
-    background-size: cover; */
+    background-size: cover;
     margin-bottom: 6%;
 }
 
