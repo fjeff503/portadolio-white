@@ -21,18 +21,16 @@ body {
 header {
     /* max-height: 30vh; */
     margin-bottom: 30px;
-    background: /* url('../img/header.jpg') no-repeat center center */
-    #3a8adf;
+    background: url('../img/header.jpg') no-repeat center center #3a8adf;
     background-attachment: scroll;
-    /* -webkit-background-size: cover;
+    -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover; */
+    background-size: cover;
 }
 
 header .contenedor {
     overflow: visible;
-    max-height: 30vh;
 }
 
 
